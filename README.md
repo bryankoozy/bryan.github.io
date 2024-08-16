@@ -21,4 +21,5 @@ My research interest at **suss**:
   - hello
 
 ![raven face](https://media.licdn.com/dms/image/C4D03AQH46sCxh8V7fw/profile-displayphoto-shrink_200_200/0/1517441523210?e=2147483647&v=beta&t=vqOAoxky140zCKVAq-LhMQqe81MQyHAMNJ7SO9T2EY4 "a image")
-![scrum master](Screenshot 2023-11-20 143256.png)
+
+![scrum master](Screenshot_2023-11-20_143256.png=)
